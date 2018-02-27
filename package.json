@@ -1,0 +1,22 @@
+{
+  "name": "webservers",
+  "version": "1.0.0",
+  "description": "https://matoski.com/article/node-express-generate-ssl/",
+  "main": "secure500.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mcasperson/webservers.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mcasperson/webservers/issues"
+  },
+  "homepage": "https://github.com/mcasperson/webservers#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
